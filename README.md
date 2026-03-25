@@ -1,4 +1,4 @@
-# Heart Disease Prediction using XGBoost
+# HeartSense 
 
 ## About
 This project focuses on predicting the presence of heart disease using machine learning techniques.
